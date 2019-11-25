@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Testing custom keywords</description>
+   <name>CustomTestCase</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>f65113fa-5da0-4efa-b4bb-d73fe6fad265</testCaseGuid>
+</TestCaseEntity>
